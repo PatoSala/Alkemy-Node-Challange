@@ -49,10 +49,10 @@ Swagger.
 los requerimientos solicitados.
 
 ## Criterios a evaluar
-● Conocimientos básicos de Nodejs.
-● Validación de datos.
-● Buenas prácticas de codificación.
-● Buenas prácticas para nombre de rutas.
+● Conocimientos básicos de Nodejs.  
+● Validación de datos.  
+● Buenas prácticas de codificación.  
+● Buenas prácticas para nombre de rutas.  
 Tests
 De forma opcional, se podrán agregar tests de los diferentes endpoints de la APP, verificando
 posibles escenarios de error:
