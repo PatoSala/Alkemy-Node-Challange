@@ -40,11 +40,11 @@ de creación de forma ascendiente o descendiente.
 
 ## Requerimientos funcionales
 
-● La API deberá desarrollarse con Nodejs y Express para el servidor y Sequelize como ORM.
-● Las rutas deberán seguir el patrón REST.
-● No es necesario armar el Frontend.
+● La API deberá desarrollarse con Nodejs y Express para el servidor y Sequelize como ORM.  
+● Las rutas deberán seguir el patrón REST.  
+● No es necesario armar el Frontend.  
 ● Es deseable documentar los endpoints utilizando alguna herramienta como Postman o
-Swagger.
+Swagger.  
 ● El modelado de datos puede ser extendido según el criterio del aplicante en base a
 los requerimientos solicitados.
 
